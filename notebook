@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "f01b9f36",
+   "id": "7ff210f2",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2026-05-26T17:40:51.066557Z",
-     "iopub.status.busy": "2026-05-26T17:40:51.066164Z",
-     "iopub.status.idle": "2026-05-26T17:40:53.295799Z",
-     "shell.execute_reply": "2026-05-26T17:40:53.294773Z"
+     "iopub.execute_input": "2026-05-26T20:18:07.954219Z",
+     "iopub.status.busy": "2026-05-26T20:18:07.953869Z",
+     "iopub.status.idle": "2026-05-26T20:18:10.336044Z",
+     "shell.execute_reply": "2026-05-26T20:18:10.335225Z"
     },
     "papermill": {
-     "duration": 2.236646,
-     "end_time": "2026-05-26T17:40:53.298671+00:00",
+     "duration": 2.389263,
+     "end_time": "2026-05-26T20:18:10.338267+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:51.062025+00:00",
+     "start_time": "2026-05-26T20:18:07.949004+00:00",
      "status": "completed"
     },
     "tags": []
@@ -59,13 +59,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4e1839eb",
+   "id": "07258a27",
    "metadata": {
     "papermill": {
-     "duration": 0.001728,
-     "end_time": "2026-05-26T17:40:53.302428+00:00",
+     "duration": 0.002387,
+     "end_time": "2026-05-26T20:18:10.343324+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:53.300700+00:00",
+     "start_time": "2026-05-26T20:18:10.340937+00:00",
      "status": "completed"
     },
     "tags": []
@@ -77,19 +77,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "ad0635c4",
+   "id": "d887d411",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T17:40:53.307541Z",
-     "iopub.status.busy": "2026-05-26T17:40:53.307034Z",
-     "iopub.status.idle": "2026-05-26T17:40:53.331226Z",
-     "shell.execute_reply": "2026-05-26T17:40:53.330273Z"
+     "iopub.execute_input": "2026-05-26T20:18:10.350104Z",
+     "iopub.status.busy": "2026-05-26T20:18:10.349628Z",
+     "iopub.status.idle": "2026-05-26T20:18:10.360890Z",
+     "shell.execute_reply": "2026-05-26T20:18:10.359942Z"
     },
     "papermill": {
-     "duration": 0.029377,
-     "end_time": "2026-05-26T17:40:53.333457+00:00",
+     "duration": 0.017208,
+     "end_time": "2026-05-26T20:18:10.362995+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:53.304080+00:00",
+     "start_time": "2026-05-26T20:18:10.345787+00:00",
      "status": "completed"
     },
     "tags": []
@@ -106,13 +106,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0b15cf75",
+   "id": "0780a94d",
    "metadata": {
     "papermill": {
-     "duration": 0.001782,
-     "end_time": "2026-05-26T17:40:53.337211+00:00",
+     "duration": 0.002479,
+     "end_time": "2026-05-26T20:18:10.368134+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:53.335429+00:00",
+     "start_time": "2026-05-26T20:18:10.365655+00:00",
      "status": "completed"
     },
     "tags": []
@@ -124,19 +124,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "3f907d52",
+   "id": "778bacd7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T17:40:53.342343Z",
-     "iopub.status.busy": "2026-05-26T17:40:53.341963Z",
-     "iopub.status.idle": "2026-05-26T17:40:53.651157Z",
-     "shell.execute_reply": "2026-05-26T17:40:53.650152Z"
+     "iopub.execute_input": "2026-05-26T20:18:10.374627Z",
+     "iopub.status.busy": "2026-05-26T20:18:10.374268Z",
+     "iopub.status.idle": "2026-05-26T20:18:10.557866Z",
+     "shell.execute_reply": "2026-05-26T20:18:10.556651Z"
     },
     "papermill": {
-     "duration": 0.314703,
-     "end_time": "2026-05-26T17:40:53.653647+00:00",
+     "duration": 0.18939,
+     "end_time": "2026-05-26T20:18:10.559888+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:53.338944+00:00",
+     "start_time": "2026-05-26T20:18:10.370498+00:00",
      "status": "completed"
     },
     "tags": []
@@ -206,21 +206,453 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "a31bd452",
+   "cell_type": "markdown",
+   "id": "cfdcc242",
    "metadata": {
     "papermill": {
-     "duration": 0.001776,
-     "end_time": "2026-05-26T17:40:53.657462+00:00",
+     "duration": 0.002341,
+     "end_time": "2026-05-26T20:18:10.564782+00:00",
      "exception": false,
-     "start_time": "2026-05-26T17:40:53.655686+00:00",
+     "start_time": "2026-05-26T20:18:10.562441+00:00",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "source": [
+    "Quantos incêndios aconteceram em cada ano?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "efcf1bf5",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T20:18:10.571439Z",
+     "iopub.status.busy": "2026-05-26T20:18:10.570834Z",
+     "iopub.status.idle": "2026-05-26T20:18:23.851756Z",
+     "shell.execute_reply": "2026-05-26T20:18:23.850816Z"
+    },
+    "papermill": {
+     "duration": 13.286715,
+     "end_time": "2026-05-26T20:18:23.853938+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:10.567223+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "FIRE_YEAR\n",
+       "2006         114004\n",
+       "2000          96416\n",
+       "2007          95573\n",
+       "2011          90552\n",
+       "1999          89363\n",
+       "2005          88604\n",
+       "2001          86587\n",
+       "2008          85378\n",
+       "2010          79889\n",
+       "2009          78325\n",
+       "1994          75955\n",
+       "2002          75656\n",
+       "1996          75574\n",
+       "2015          74491\n",
+       "2012          72769\n",
+       "1995          71472\n",
+       "2004          69279\n",
+       "1998          68370\n",
+       "2003          68261\n",
+       "1992          67975\n",
+       "2014          67753\n",
+       "2013          64780\n",
+       "1993          61989\n",
+       "1997          61450\n",
+       "Name: count, dtype: int64"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "query1 = pd.read_sql_query(\n",
+    "    \"SELECT FIRE_YEAR FROM Fires\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "query1.value_counts()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "96822d92",
+   "metadata": {
+    "papermill": {
+     "duration": 0.002742,
+     "end_time": "2026-05-26T20:18:23.859906+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:23.857164+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Quais estados tiveram mais incêndios registrados? (Top 10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "a0de1ee2",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T20:18:23.867142Z",
+     "iopub.status.busy": "2026-05-26T20:18:23.866748Z",
+     "iopub.status.idle": "2026-05-26T20:18:33.745946Z",
+     "shell.execute_reply": "2026-05-26T20:18:33.745127Z"
+    },
+    "papermill": {
+     "duration": 9.886068,
+     "end_time": "2026-05-26T20:18:33.748648+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:23.862580+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "STATE\n",
+       "CA    189550\n",
+       "GA    168867\n",
+       "TX    142021\n",
+       "NC    111277\n",
+       "FL     90261\n",
+       "SC     81315\n",
+       "NY     80870\n",
+       "MS     79230\n",
+       "AZ     71586\n",
+       "AL     66570\n",
+       "Name: STATE, dtype: int64"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "query2 = pd.read_sql_query(\n",
+    "    \"SELECT STATE FROM Fires\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "query2.groupby('STATE').STATE.count().sort_values(ascending=False).head(10)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b5f084aa",
+   "metadata": {
+    "papermill": {
+     "duration": 0.002812,
+     "end_time": "2026-05-26T20:18:33.754489+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:33.751677+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Quais foram os 20 maiores incêndios do dataset?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "e19922d1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T20:18:33.762301Z",
+     "iopub.status.busy": "2026-05-26T20:18:33.761431Z",
+     "iopub.status.idle": "2026-05-26T20:18:44.585775Z",
+     "shell.execute_reply": "2026-05-26T20:18:44.584872Z"
+    },
+    "papermill": {
+     "duration": 10.830485,
+     "end_time": "2026-05-26T20:18:44.587710+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:33.757225+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>FIRE_NAME</th>\n",
+       "      <th>STATE</th>\n",
+       "      <th>FIRE_SIZE</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>211296</th>\n",
+       "      <td>INOWAK</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>606945.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1579574</th>\n",
+       "      <td>LONG DRAW</td>\n",
+       "      <td>OR</td>\n",
+       "      <td>558198.3</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1459664</th>\n",
+       "      <td>WALLOW</td>\n",
+       "      <td>AZ</td>\n",
+       "      <td>538049.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305585</th>\n",
+       "      <td>BOUNDARY</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>537627.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1215267</th>\n",
+       "      <td>MINTO FLATS SOUTH</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>517078.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>153705</th>\n",
+       "      <td>BISCUIT</td>\n",
+       "      <td>OR</td>\n",
+       "      <td>499945.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305684</th>\n",
+       "      <td>DALL CITY</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>483280.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>352785</th>\n",
+       "      <td>HWY 152</td>\n",
+       "      <td>TX</td>\n",
+       "      <td>479549.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305642</th>\n",
+       "      <td>BILLY CK</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>463994.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1578265</th>\n",
+       "      <td>HOLLOWAY</td>\n",
+       "      <td>OR</td>\n",
+       "      <td>461047.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>7412</th>\n",
+       "      <td>I-40</td>\n",
+       "      <td>TX</td>\n",
+       "      <td>427696.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305583</th>\n",
+       "      <td>NORTH DAG</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>419884.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305619</th>\n",
+       "      <td>PINGO</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>403993.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1064940</th>\n",
+       "      <td>MURPHY COMPLEX</td>\n",
+       "      <td>ID</td>\n",
+       "      <td>367785.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>211242</th>\n",
+       "      <td>SIMELS 732</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>365871.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>345063</th>\n",
+       "      <td>MILFORD FLAT</td>\n",
+       "      <td>UT</td>\n",
+       "      <td>357185.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>306567</th>\n",
+       "      <td>LITTLE BLACK ONE</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>349449.9</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305621</th>\n",
+       "      <td>WINTER TRAILL</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>344833.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>305626</th>\n",
+       "      <td>CHICKEN 1</td>\n",
+       "      <td>AK</td>\n",
+       "      <td>320155.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1572842</th>\n",
+       "      <td>RUSH</td>\n",
+       "      <td>CA</td>\n",
+       "      <td>315578.8</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                 FIRE_NAME STATE  FIRE_SIZE\n",
+       "211296              INOWAK    AK   606945.0\n",
+       "1579574          LONG DRAW    OR   558198.3\n",
+       "1459664             WALLOW    AZ   538049.0\n",
+       "305585            BOUNDARY    AK   537627.0\n",
+       "1215267  MINTO FLATS SOUTH    AK   517078.0\n",
+       "153705             BISCUIT    OR   499945.0\n",
+       "305684           DALL CITY    AK   483280.0\n",
+       "352785             HWY 152    TX   479549.0\n",
+       "305642            BILLY CK    AK   463994.0\n",
+       "1578265           HOLLOWAY    OR   461047.0\n",
+       "7412                  I-40    TX   427696.0\n",
+       "305583           NORTH DAG    AK   419884.0\n",
+       "305619               PINGO    AK   403993.0\n",
+       "1064940     MURPHY COMPLEX    ID   367785.0\n",
+       "211242          SIMELS 732    AK   365871.0\n",
+       "345063        MILFORD FLAT    UT   357185.0\n",
+       "306567    LITTLE BLACK ONE    AK   349449.9\n",
+       "305621       WINTER TRAILL    AK   344833.0\n",
+       "305626           CHICKEN 1    AK   320155.0\n",
+       "1572842               RUSH    CA   315578.8"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "query3 = pd.read_sql_query(\n",
+    "    \"\"\"SELECT\n",
+    "    FIRE_NAME,\n",
+    "    STATE,\n",
+    "    FIRE_SIZE\n",
+    "    FROM Fires\"\"\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "query3.sort_values(by = 'FIRE_SIZE', ascending=False).head(20)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "385d8a38",
+   "metadata": {
+    "papermill": {
+     "duration": 0.00283,
+     "end_time": "2026-05-26T20:18:44.593610+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:44.590780+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Quais causas aparecem com maior frequência?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "f7a3e610",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T20:18:44.601261Z",
+     "iopub.status.busy": "2026-05-26T20:18:44.600915Z",
+     "iopub.status.idle": "2026-05-26T20:18:54.467237Z",
+     "shell.execute_reply": "2026-05-26T20:18:54.466387Z"
+    },
+    "papermill": {
+     "duration": 9.872678,
+     "end_time": "2026-05-26T20:18:54.469316+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T20:18:44.596638+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "STAT_CAUSE_DESCR \n",
+       "Debris Burning       22.81\n",
+       "Miscellaneous        17.22\n",
+       "Arson                14.97\n",
+       "Lightning            14.81\n",
+       "Missing/Undefined     8.87\n",
+       "Name: proportion, dtype: float64"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "query4 = pd.read_sql_query(\n",
+    "    \"SELECT STAT_CAUSE_DESCR FROM Fires\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "count_cause = query4.value_counts(normalize=True).mul(100).round(2)\n",
+    "\n",
+    "count_cause.sort_values(ascending=False).head(5)"
+   ]
   }
  ],
  "metadata": {
@@ -259,14 +691,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6.773256,
-   "end_time": "2026-05-26T17:40:54.178444+00:00",
+   "duration": 51.086547,
+   "end_time": "2026-05-26T20:18:55.393713+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-05-26T17:40:47.405188+00:00",
+   "start_time": "2026-05-26T20:18:04.307166+00:00",
    "version": "2.7.0"
   }
  },
