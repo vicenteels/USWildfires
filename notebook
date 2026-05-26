@@ -1,0 +1,275 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "f01b9f36",
+   "metadata": {
+    "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
+    "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
+    "execution": {
+     "iopub.execute_input": "2026-05-26T17:40:51.066557Z",
+     "iopub.status.busy": "2026-05-26T17:40:51.066164Z",
+     "iopub.status.idle": "2026-05-26T17:40:53.295799Z",
+     "shell.execute_reply": "2026-05-26T17:40:53.294773Z"
+    },
+    "papermill": {
+     "duration": 2.236646,
+     "end_time": "2026-05-26T17:40:53.298671+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:51.062025+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "/kaggle/input/datasets/rtatman/188-million-us-wildfires/FPA_FOD_20170508.sqlite\n"
+     ]
+    }
+   ],
+   "source": [
+    "# This Python 3 environment comes with many helpful analytics libraries installed\n",
+    "# It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python\n",
+    "# For example, here's several helpful packages to load\n",
+    "\n",
+    "import numpy as np # linear algebra\n",
+    "import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)\n",
+    "\n",
+    "# Input data files are available in the read-only \"../input/\" directory\n",
+    "# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory\n",
+    "\n",
+    "import os\n",
+    "for dirname, _, filenames in os.walk('/kaggle/input'):\n",
+    "    for filename in filenames:\n",
+    "        print(os.path.join(dirname, filename))\n",
+    "\n",
+    "# You can write up to 20GB to the current directory (/kaggle/working/) that gets preserved as output when you create a version using \"Save & Run All\" \n",
+    "# You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session\n",
+    "\n",
+    "# Use the kagglehub client library to attach Kaggle resources like competitions, datasets, and models to your session\n",
+    "# Learn more about kagglehub: https://github.com/Kaggle/kagglehub/blob/main/README.md\n",
+    "\n",
+    "import kagglehub\n",
+    "# kagglehub.dataset_download('<owner>/<dataset-slug>')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4e1839eb",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001728,
+     "end_time": "2026-05-26T17:40:53.302428+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:53.300700+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Conectando o ambiente"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "ad0635c4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T17:40:53.307541Z",
+     "iopub.status.busy": "2026-05-26T17:40:53.307034Z",
+     "iopub.status.idle": "2026-05-26T17:40:53.331226Z",
+     "shell.execute_reply": "2026-05-26T17:40:53.330273Z"
+    },
+    "papermill": {
+     "duration": 0.029377,
+     "end_time": "2026-05-26T17:40:53.333457+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:53.304080+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "import sqlite3\n",
+    "import pandas as pd\n",
+    "\n",
+    "path = \"/kaggle/input/datasets/rtatman/188-million-us-wildfires/FPA_FOD_20170508.sqlite\"\n",
+    "\n",
+    "conn = sqlite3.connect(path)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0b15cf75",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001782,
+     "end_time": "2026-05-26T17:40:53.337211+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:53.335429+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Carregando os dados"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "3f907d52",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-26T17:40:53.342343Z",
+     "iopub.status.busy": "2026-05-26T17:40:53.341963Z",
+     "iopub.status.idle": "2026-05-26T17:40:53.651157Z",
+     "shell.execute_reply": "2026-05-26T17:40:53.650152Z"
+    },
+    "papermill": {
+     "duration": 0.314703,
+     "end_time": "2026-05-26T17:40:53.653647+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:53.338944+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 5000 entries, 0 to 4999\n",
+      "Data columns (total 39 columns):\n",
+      " #   Column                      Non-Null Count  Dtype  \n",
+      "---  ------                      --------------  -----  \n",
+      " 0   OBJECTID                    5000 non-null   int64  \n",
+      " 1   FOD_ID                      5000 non-null   int64  \n",
+      " 2   FPA_ID                      5000 non-null   object \n",
+      " 3   SOURCE_SYSTEM_TYPE          5000 non-null   object \n",
+      " 4   SOURCE_SYSTEM               5000 non-null   object \n",
+      " 5   NWCG_REPORTING_AGENCY       5000 non-null   object \n",
+      " 6   NWCG_REPORTING_UNIT_ID      5000 non-null   object \n",
+      " 7   NWCG_REPORTING_UNIT_NAME    5000 non-null   object \n",
+      " 8   SOURCE_REPORTING_UNIT       5000 non-null   object \n",
+      " 9   SOURCE_REPORTING_UNIT_NAME  5000 non-null   object \n",
+      " 10  LOCAL_FIRE_REPORT_ID        5000 non-null   object \n",
+      " 11  LOCAL_INCIDENT_ID           4996 non-null   object \n",
+      " 12  FIRE_CODE                   4987 non-null   object \n",
+      " 13  FIRE_NAME                   5000 non-null   object \n",
+      " 14  ICS_209_INCIDENT_NUMBER     236 non-null    object \n",
+      " 15  ICS_209_NAME                236 non-null    object \n",
+      " 16  MTBS_ID                     65 non-null     object \n",
+      " 17  MTBS_FIRE_NAME              65 non-null     object \n",
+      " 18  COMPLEX_NAME                107 non-null    object \n",
+      " 19  FIRE_YEAR                   5000 non-null   int64  \n",
+      " 20  DISCOVERY_DATE              5000 non-null   float64\n",
+      " 21  DISCOVERY_DOY               5000 non-null   int64  \n",
+      " 22  DISCOVERY_TIME              5000 non-null   object \n",
+      " 23  STAT_CAUSE_CODE             5000 non-null   float64\n",
+      " 24  STAT_CAUSE_DESCR            5000 non-null   object \n",
+      " 25  CONT_DATE                   4984 non-null   float64\n",
+      " 26  CONT_DOY                    4984 non-null   float64\n",
+      " 27  CONT_TIME                   4983 non-null   object \n",
+      " 28  FIRE_SIZE                   5000 non-null   float64\n",
+      " 29  FIRE_SIZE_CLASS             5000 non-null   object \n",
+      " 30  LATITUDE                    5000 non-null   float64\n",
+      " 31  LONGITUDE                   5000 non-null   float64\n",
+      " 32  OWNER_CODE                  5000 non-null   float64\n",
+      " 33  OWNER_DESCR                 5000 non-null   object \n",
+      " 34  STATE                       5000 non-null   object \n",
+      " 35  COUNTY                      3897 non-null   object \n",
+      " 36  FIPS_CODE                   3897 non-null   object \n",
+      " 37  FIPS_NAME                   3897 non-null   object \n",
+      " 38  Shape                       5000 non-null   object \n",
+      "dtypes: float64(8), int64(4), object(27)\n",
+      "memory usage: 1.5+ MB\n"
+     ]
+    }
+   ],
+   "source": [
+    "fires = pd.read_sql_query(\n",
+    "    \"SELECT * FROM Fires LIMIT 5000\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "list(fires.columns)\n",
+    "fires.info()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a31bd452",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001776,
+     "end_time": "2026-05-26T17:40:53.657462+00:00",
+     "exception": false,
+     "start_time": "2026-05-26T17:40:53.655686+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kaggle": {
+   "accelerator": "none",
+   "dataSources": [
+    {
+     "databundleVersionId": 1182398,
+     "datasetId": 2478,
+     "sourceId": 1151655,
+     "sourceType": "datasetVersion"
+    }
+   ],
+   "dockerImageVersionId": 31328,
+   "isGpuEnabled": false,
+   "isInternetEnabled": true,
+   "language": "python",
+   "sourceType": "notebook"
+  },
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.12"
+  },
+  "papermill": {
+   "default_parameters": {},
+   "duration": 6.773256,
+   "end_time": "2026-05-26T17:40:54.178444+00:00",
+   "environment_variables": {},
+   "exception": null,
+   "input_path": "__notebook__.ipynb",
+   "output_path": "__notebook__.ipynb",
+   "parameters": {},
+   "start_time": "2026-05-26T17:40:47.405188+00:00",
+   "version": "2.7.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
