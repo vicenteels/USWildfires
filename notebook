@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "7ff210f2",
+   "id": "c37506e1",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:07.954219Z",
-     "iopub.status.busy": "2026-05-26T20:18:07.953869Z",
-     "iopub.status.idle": "2026-05-26T20:18:10.336044Z",
-     "shell.execute_reply": "2026-05-26T20:18:10.335225Z"
+     "iopub.execute_input": "2026-05-27T20:29:05.231768Z",
+     "iopub.status.busy": "2026-05-27T20:29:05.231417Z",
+     "iopub.status.idle": "2026-05-27T20:29:07.482789Z",
+     "shell.execute_reply": "2026-05-27T20:29:07.481708Z"
     },
     "papermill": {
-     "duration": 2.389263,
-     "end_time": "2026-05-26T20:18:10.338267+00:00",
+     "duration": 2.25932,
+     "end_time": "2026-05-27T20:29:07.485090+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:07.949004+00:00",
+     "start_time": "2026-05-27T20:29:05.225770+00:00",
      "status": "completed"
     },
     "tags": []
@@ -59,37 +59,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "07258a27",
+   "id": "3ae6a80e",
    "metadata": {
     "papermill": {
-     "duration": 0.002387,
-     "end_time": "2026-05-26T20:18:10.343324+00:00",
+     "duration": 0.002625,
+     "end_time": "2026-05-27T20:29:07.490535+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.340937+00:00",
+     "start_time": "2026-05-27T20:29:07.487910+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## Conectando o ambiente"
+    "## Connecting the environment"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "d887d411",
+   "id": "fe480e39",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:10.350104Z",
-     "iopub.status.busy": "2026-05-26T20:18:10.349628Z",
-     "iopub.status.idle": "2026-05-26T20:18:10.360890Z",
-     "shell.execute_reply": "2026-05-26T20:18:10.359942Z"
+     "iopub.execute_input": "2026-05-27T20:29:07.498285Z",
+     "iopub.status.busy": "2026-05-27T20:29:07.497228Z",
+     "iopub.status.idle": "2026-05-27T20:29:07.511356Z",
+     "shell.execute_reply": "2026-05-27T20:29:07.510368Z"
     },
     "papermill": {
-     "duration": 0.017208,
-     "end_time": "2026-05-26T20:18:10.362995+00:00",
+     "duration": 0.020271,
+     "end_time": "2026-05-27T20:29:07.513575+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.345787+00:00",
+     "start_time": "2026-05-27T20:29:07.493304+00:00",
      "status": "completed"
     },
     "tags": []
@@ -106,37 +106,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0780a94d",
+   "id": "f5906669",
    "metadata": {
     "papermill": {
-     "duration": 0.002479,
-     "end_time": "2026-05-26T20:18:10.368134+00:00",
+     "duration": 0.002698,
+     "end_time": "2026-05-27T20:29:07.519090+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.365655+00:00",
+     "start_time": "2026-05-27T20:29:07.516392+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "## Carregando os dados"
+    "## Loading data"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "778bacd7",
+   "id": "c88a1ff6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:10.374627Z",
-     "iopub.status.busy": "2026-05-26T20:18:10.374268Z",
-     "iopub.status.idle": "2026-05-26T20:18:10.557866Z",
-     "shell.execute_reply": "2026-05-26T20:18:10.556651Z"
+     "iopub.execute_input": "2026-05-27T20:29:07.525966Z",
+     "iopub.status.busy": "2026-05-27T20:29:07.525591Z",
+     "iopub.status.idle": "2026-05-27T20:29:07.710191Z",
+     "shell.execute_reply": "2026-05-27T20:29:07.708499Z"
     },
     "papermill": {
-     "duration": 0.18939,
-     "end_time": "2026-05-26T20:18:10.559888+00:00",
+     "duration": 0.190852,
+     "end_time": "2026-05-27T20:29:07.712514+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.370498+00:00",
+     "start_time": "2026-05-27T20:29:07.521662+00:00",
      "status": "completed"
     },
     "tags": []
@@ -207,37 +207,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cfdcc242",
+   "id": "23e86ed3",
    "metadata": {
     "papermill": {
-     "duration": 0.002341,
-     "end_time": "2026-05-26T20:18:10.564782+00:00",
+     "duration": 0.002641,
+     "end_time": "2026-05-27T20:29:07.718080+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.562441+00:00",
+     "start_time": "2026-05-27T20:29:07.715439+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Quantos incêndios aconteceram em cada ano?"
+    "How many fires occurred each year?"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "efcf1bf5",
+   "id": "5437951c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:10.571439Z",
-     "iopub.status.busy": "2026-05-26T20:18:10.570834Z",
-     "iopub.status.idle": "2026-05-26T20:18:23.851756Z",
-     "shell.execute_reply": "2026-05-26T20:18:23.850816Z"
+     "iopub.execute_input": "2026-05-27T20:29:07.725398Z",
+     "iopub.status.busy": "2026-05-27T20:29:07.724677Z",
+     "iopub.status.idle": "2026-05-27T20:29:21.025292Z",
+     "shell.execute_reply": "2026-05-27T20:29:21.024039Z"
     },
     "papermill": {
-     "duration": 13.286715,
-     "end_time": "2026-05-26T20:18:23.853938+00:00",
+     "duration": 13.306724,
+     "end_time": "2026-05-27T20:29:21.027466+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:10.567223+00:00",
+     "start_time": "2026-05-27T20:29:07.720742+00:00",
      "status": "completed"
     },
     "tags": []
@@ -290,37 +290,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "96822d92",
+   "id": "3b5fb0dd",
    "metadata": {
     "papermill": {
-     "duration": 0.002742,
-     "end_time": "2026-05-26T20:18:23.859906+00:00",
+     "duration": 0.002825,
+     "end_time": "2026-05-27T20:29:21.033344+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:23.857164+00:00",
+     "start_time": "2026-05-27T20:29:21.030519+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Quais estados tiveram mais incêndios registrados? (Top 10)"
+    "Which states had the most reported fires? (Top 10)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "a0de1ee2",
+   "id": "a9104502",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:23.867142Z",
-     "iopub.status.busy": "2026-05-26T20:18:23.866748Z",
-     "iopub.status.idle": "2026-05-26T20:18:33.745946Z",
-     "shell.execute_reply": "2026-05-26T20:18:33.745127Z"
+     "iopub.execute_input": "2026-05-27T20:29:21.040733Z",
+     "iopub.status.busy": "2026-05-27T20:29:21.040376Z",
+     "iopub.status.idle": "2026-05-27T20:29:32.007366Z",
+     "shell.execute_reply": "2026-05-27T20:29:32.006213Z"
     },
     "papermill": {
-     "duration": 9.886068,
-     "end_time": "2026-05-26T20:18:33.748648+00:00",
+     "duration": 10.974038,
+     "end_time": "2026-05-27T20:29:32.010205+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:23.862580+00:00",
+     "start_time": "2026-05-27T20:29:21.036167+00:00",
      "status": "completed"
     },
     "tags": []
@@ -359,37 +359,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b5f084aa",
+   "id": "0cc51f53",
    "metadata": {
     "papermill": {
-     "duration": 0.002812,
-     "end_time": "2026-05-26T20:18:33.754489+00:00",
+     "duration": 0.003691,
+     "end_time": "2026-05-27T20:29:32.017162+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:33.751677+00:00",
+     "start_time": "2026-05-27T20:29:32.013471+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Quais foram os 20 maiores incêndios do dataset?"
+    "What were the 20 largest fires in the dataset?"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "e19922d1",
+   "id": "b4a18092",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:33.762301Z",
-     "iopub.status.busy": "2026-05-26T20:18:33.761431Z",
-     "iopub.status.idle": "2026-05-26T20:18:44.585775Z",
-     "shell.execute_reply": "2026-05-26T20:18:44.584872Z"
+     "iopub.execute_input": "2026-05-27T20:29:32.025221Z",
+     "iopub.status.busy": "2026-05-27T20:29:32.024826Z",
+     "iopub.status.idle": "2026-05-27T20:29:44.123304Z",
+     "shell.execute_reply": "2026-05-27T20:29:44.122069Z"
     },
     "papermill": {
-     "duration": 10.830485,
-     "end_time": "2026-05-26T20:18:44.587710+00:00",
+     "duration": 12.105196,
+     "end_time": "2026-05-27T20:29:44.125611+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:33.757225+00:00",
+     "start_time": "2026-05-27T20:29:32.020415+00:00",
      "status": "completed"
     },
     "tags": []
@@ -590,37 +590,37 @@
   },
   {
    "cell_type": "markdown",
-   "id": "385d8a38",
+   "id": "0617fe6a",
    "metadata": {
     "papermill": {
-     "duration": 0.00283,
-     "end_time": "2026-05-26T20:18:44.593610+00:00",
+     "duration": 0.004916,
+     "end_time": "2026-05-27T20:29:44.134587+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:44.590780+00:00",
+     "start_time": "2026-05-27T20:29:44.129671+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Quais causas aparecem com maior frequência?"
+    "Which causes appear most frequently?"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "f7a3e610",
+   "id": "b7841c74",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-26T20:18:44.601261Z",
-     "iopub.status.busy": "2026-05-26T20:18:44.600915Z",
-     "iopub.status.idle": "2026-05-26T20:18:54.467237Z",
-     "shell.execute_reply": "2026-05-26T20:18:54.466387Z"
+     "iopub.execute_input": "2026-05-27T20:29:44.143760Z",
+     "iopub.status.busy": "2026-05-27T20:29:44.143401Z",
+     "iopub.status.idle": "2026-05-27T20:29:55.032532Z",
+     "shell.execute_reply": "2026-05-27T20:29:55.031301Z"
     },
     "papermill": {
-     "duration": 9.872678,
-     "end_time": "2026-05-26T20:18:54.469316+00:00",
+     "duration": 10.896593,
+     "end_time": "2026-05-27T20:29:55.034665+00:00",
      "exception": false,
-     "start_time": "2026-05-26T20:18:44.596638+00:00",
+     "start_time": "2026-05-27T20:29:44.138072+00:00",
      "status": "completed"
     },
     "tags": []
@@ -691,14 +691,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 51.086547,
-   "end_time": "2026-05-26T20:18:55.393713+00:00",
+   "duration": 54.181002,
+   "end_time": "2026-05-27T20:29:55.859688+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-05-26T20:18:04.307166+00:00",
+   "start_time": "2026-05-27T20:29:01.678686+00:00",
    "version": "2.7.0"
   }
  },
