@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c37506e1",
+   "id": "83470f31",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:05.231768Z",
-     "iopub.status.busy": "2026-05-27T20:29:05.231417Z",
-     "iopub.status.idle": "2026-05-27T20:29:07.482789Z",
-     "shell.execute_reply": "2026-05-27T20:29:07.481708Z"
+     "iopub.execute_input": "2026-05-29T19:00:47.072581Z",
+     "iopub.status.busy": "2026-05-29T19:00:47.071890Z",
+     "iopub.status.idle": "2026-05-29T19:00:49.241918Z",
+     "shell.execute_reply": "2026-05-29T19:00:49.240898Z"
     },
     "papermill": {
-     "duration": 2.25932,
-     "end_time": "2026-05-27T20:29:07.485090+00:00",
+     "duration": 2.17748,
+     "end_time": "2026-05-29T19:00:49.244083+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:05.225770+00:00",
+     "start_time": "2026-05-29T19:00:47.066603+00:00",
      "status": "completed"
     },
     "tags": []
@@ -59,13 +59,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3ae6a80e",
+   "id": "c1c23174",
    "metadata": {
     "papermill": {
-     "duration": 0.002625,
-     "end_time": "2026-05-27T20:29:07.490535+00:00",
+     "duration": 0.003077,
+     "end_time": "2026-05-29T19:00:49.250377+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.487910+00:00",
+     "start_time": "2026-05-29T19:00:49.247300+00:00",
      "status": "completed"
     },
     "tags": []
@@ -77,19 +77,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "fe480e39",
+   "id": "8860a86b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:07.498285Z",
-     "iopub.status.busy": "2026-05-27T20:29:07.497228Z",
-     "iopub.status.idle": "2026-05-27T20:29:07.511356Z",
-     "shell.execute_reply": "2026-05-27T20:29:07.510368Z"
+     "iopub.execute_input": "2026-05-29T19:00:49.258124Z",
+     "iopub.status.busy": "2026-05-29T19:00:49.257617Z",
+     "iopub.status.idle": "2026-05-29T19:00:49.269003Z",
+     "shell.execute_reply": "2026-05-29T19:00:49.267638Z"
     },
     "papermill": {
-     "duration": 0.020271,
-     "end_time": "2026-05-27T20:29:07.513575+00:00",
+     "duration": 0.017936,
+     "end_time": "2026-05-29T19:00:49.271199+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.493304+00:00",
+     "start_time": "2026-05-29T19:00:49.253263+00:00",
      "status": "completed"
     },
     "tags": []
@@ -106,13 +106,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f5906669",
+   "id": "13711608",
    "metadata": {
     "papermill": {
-     "duration": 0.002698,
-     "end_time": "2026-05-27T20:29:07.519090+00:00",
+     "duration": 0.003335,
+     "end_time": "2026-05-29T19:00:49.277596+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.516392+00:00",
+     "start_time": "2026-05-29T19:00:49.274261+00:00",
      "status": "completed"
     },
     "tags": []
@@ -124,19 +124,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "c88a1ff6",
+   "id": "4aa9117e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:07.525966Z",
-     "iopub.status.busy": "2026-05-27T20:29:07.525591Z",
-     "iopub.status.idle": "2026-05-27T20:29:07.710191Z",
-     "shell.execute_reply": "2026-05-27T20:29:07.708499Z"
+     "iopub.execute_input": "2026-05-29T19:00:49.285402Z",
+     "iopub.status.busy": "2026-05-29T19:00:49.284724Z",
+     "iopub.status.idle": "2026-05-29T19:00:49.474117Z",
+     "shell.execute_reply": "2026-05-29T19:00:49.473131Z"
     },
     "papermill": {
-     "duration": 0.190852,
-     "end_time": "2026-05-27T20:29:07.712514+00:00",
+     "duration": 0.195677,
+     "end_time": "2026-05-29T19:00:49.476235+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.521662+00:00",
+     "start_time": "2026-05-29T19:00:49.280558+00:00",
      "status": "completed"
     },
     "tags": []
@@ -207,13 +207,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "23e86ed3",
+   "id": "b9d769cd",
    "metadata": {
     "papermill": {
-     "duration": 0.002641,
-     "end_time": "2026-05-27T20:29:07.718080+00:00",
+     "duration": 0.002987,
+     "end_time": "2026-05-29T19:00:49.482386+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.715439+00:00",
+     "start_time": "2026-05-29T19:00:49.479399+00:00",
      "status": "completed"
     },
     "tags": []
@@ -225,19 +225,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "5437951c",
+   "id": "73c4e28c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:07.725398Z",
-     "iopub.status.busy": "2026-05-27T20:29:07.724677Z",
-     "iopub.status.idle": "2026-05-27T20:29:21.025292Z",
-     "shell.execute_reply": "2026-05-27T20:29:21.024039Z"
+     "iopub.execute_input": "2026-05-29T19:00:49.490127Z",
+     "iopub.status.busy": "2026-05-29T19:00:49.489716Z",
+     "iopub.status.idle": "2026-05-29T19:01:03.328581Z",
+     "shell.execute_reply": "2026-05-29T19:01:03.327713Z"
     },
     "papermill": {
-     "duration": 13.306724,
-     "end_time": "2026-05-27T20:29:21.027466+00:00",
+     "duration": 13.845365,
+     "end_time": "2026-05-29T19:01:03.330693+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:07.720742+00:00",
+     "start_time": "2026-05-29T19:00:49.485328+00:00",
      "status": "completed"
     },
     "tags": []
@@ -252,26 +252,13 @@
        "2007          95573\n",
        "2011          90552\n",
        "1999          89363\n",
-       "2005          88604\n",
-       "2001          86587\n",
-       "2008          85378\n",
-       "2010          79889\n",
-       "2009          78325\n",
-       "1994          75955\n",
-       "2002          75656\n",
-       "1996          75574\n",
-       "2015          74491\n",
-       "2012          72769\n",
-       "1995          71472\n",
-       "2004          69279\n",
-       "1998          68370\n",
-       "2003          68261\n",
+       "              ...  \n",
        "1992          67975\n",
        "2014          67753\n",
        "2013          64780\n",
        "1993          61989\n",
        "1997          61450\n",
-       "Name: count, dtype: int64"
+       "Name: count, Length: 24, dtype: int64"
       ]
      },
      "execution_count": 4,
@@ -280,6 +267,8 @@
     }
    ],
    "source": [
+    "pd.set_option('display.max_rows', 20)\n",
+    "\n",
     "query1 = pd.read_sql_query(\n",
     "    \"SELECT FIRE_YEAR FROM Fires\",\n",
     "    conn\n",
@@ -290,13 +279,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3b5fb0dd",
+   "id": "dd42f1a2",
    "metadata": {
     "papermill": {
-     "duration": 0.002825,
-     "end_time": "2026-05-27T20:29:21.033344+00:00",
+     "duration": 0.003235,
+     "end_time": "2026-05-29T19:01:03.337431+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:21.030519+00:00",
+     "start_time": "2026-05-29T19:01:03.334196+00:00",
      "status": "completed"
     },
     "tags": []
@@ -308,19 +297,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "a9104502",
+   "id": "c0dfc991",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:21.040733Z",
-     "iopub.status.busy": "2026-05-27T20:29:21.040376Z",
-     "iopub.status.idle": "2026-05-27T20:29:32.007366Z",
-     "shell.execute_reply": "2026-05-27T20:29:32.006213Z"
+     "iopub.execute_input": "2026-05-29T19:01:03.346232Z",
+     "iopub.status.busy": "2026-05-29T19:01:03.345862Z",
+     "iopub.status.idle": "2026-05-29T19:01:14.109969Z",
+     "shell.execute_reply": "2026-05-29T19:01:14.109137Z"
     },
     "papermill": {
-     "duration": 10.974038,
-     "end_time": "2026-05-27T20:29:32.010205+00:00",
+     "duration": 10.770861,
+     "end_time": "2026-05-29T19:01:14.111805+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:21.036167+00:00",
+     "start_time": "2026-05-29T19:01:03.340944+00:00",
      "status": "completed"
     },
     "tags": []
@@ -349,6 +338,8 @@
     }
    ],
    "source": [
+    "pd.set_option('display.max_rows', 10)\n",
+    "\n",
     "query2 = pd.read_sql_query(\n",
     "    \"SELECT STATE FROM Fires\",\n",
     "    conn\n",
@@ -359,13 +350,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0cc51f53",
+   "id": "d827263e",
    "metadata": {
     "papermill": {
-     "duration": 0.003691,
-     "end_time": "2026-05-27T20:29:32.017162+00:00",
+     "duration": 0.003322,
+     "end_time": "2026-05-29T19:01:14.118539+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:32.013471+00:00",
+     "start_time": "2026-05-29T19:01:14.115217+00:00",
      "status": "completed"
     },
     "tags": []
@@ -377,19 +368,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "b4a18092",
+   "id": "30f4a21d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:32.025221Z",
-     "iopub.status.busy": "2026-05-27T20:29:32.024826Z",
-     "iopub.status.idle": "2026-05-27T20:29:44.123304Z",
-     "shell.execute_reply": "2026-05-27T20:29:44.122069Z"
+     "iopub.execute_input": "2026-05-29T19:01:14.126934Z",
+     "iopub.status.busy": "2026-05-29T19:01:14.126180Z",
+     "iopub.status.idle": "2026-05-29T19:01:26.224598Z",
+     "shell.execute_reply": "2026-05-29T19:01:26.223291Z"
     },
     "papermill": {
-     "duration": 12.105196,
-     "end_time": "2026-05-27T20:29:44.125611+00:00",
+     "duration": 12.106049,
+     "end_time": "2026-05-29T19:01:26.227750+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:32.020415+00:00",
+     "start_time": "2026-05-29T19:01:14.121701+00:00",
      "status": "completed"
     },
     "tags": []
@@ -576,6 +567,8 @@
     }
    ],
    "source": [
+    "pd.set_option('display.max_rows', 20)\n",
+    "\n",
     "query3 = pd.read_sql_query(\n",
     "    \"\"\"SELECT\n",
     "    FIRE_NAME,\n",
@@ -590,13 +583,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0617fe6a",
+   "id": "7c78a808",
    "metadata": {
     "papermill": {
-     "duration": 0.004916,
-     "end_time": "2026-05-27T20:29:44.134587+00:00",
+     "duration": 0.003726,
+     "end_time": "2026-05-29T19:01:26.236023+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:44.129671+00:00",
+     "start_time": "2026-05-29T19:01:26.232297+00:00",
      "status": "completed"
     },
     "tags": []
@@ -608,19 +601,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "b7841c74",
+   "id": "6573533d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-27T20:29:44.143760Z",
-     "iopub.status.busy": "2026-05-27T20:29:44.143401Z",
-     "iopub.status.idle": "2026-05-27T20:29:55.032532Z",
-     "shell.execute_reply": "2026-05-27T20:29:55.031301Z"
+     "iopub.execute_input": "2026-05-29T19:01:26.244865Z",
+     "iopub.status.busy": "2026-05-29T19:01:26.244541Z",
+     "iopub.status.idle": "2026-05-29T19:01:37.426314Z",
+     "shell.execute_reply": "2026-05-29T19:01:37.425459Z"
     },
     "papermill": {
-     "duration": 10.896593,
-     "end_time": "2026-05-27T20:29:55.034665+00:00",
+     "duration": 11.188715,
+     "end_time": "2026-05-29T19:01:37.428319+00:00",
      "exception": false,
-     "start_time": "2026-05-27T20:29:44.138072+00:00",
+     "start_time": "2026-05-29T19:01:26.239604+00:00",
      "status": "completed"
     },
     "tags": []
@@ -644,6 +637,8 @@
     }
    ],
    "source": [
+    "pd.set_option('display.max_rows', 20)\n",
+    "\n",
     "query4 = pd.read_sql_query(\n",
     "    \"SELECT STAT_CAUSE_DESCR FROM Fires\",\n",
     "    conn\n",
@@ -652,6 +647,483 @@
     "count_cause = query4.value_counts(normalize=True).mul(100).round(2)\n",
     "\n",
     "count_cause.sort_values(ascending=False).head(5)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3e924ecc",
+   "metadata": {
+    "papermill": {
+     "duration": 0.004746,
+     "end_time": "2026-05-29T19:01:37.436710+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:01:37.431964+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Average area burned by state"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "cea51e05",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-29T19:01:37.446210Z",
+     "iopub.status.busy": "2026-05-29T19:01:37.445754Z",
+     "iopub.status.idle": "2026-05-29T19:01:49.471155Z",
+     "shell.execute_reply": "2026-05-29T19:01:49.469196Z"
+    },
+    "papermill": {
+     "duration": 12.033283,
+     "end_time": "2026-05-29T19:01:49.473561+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:01:37.440278+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "STATE\n",
+       "AK    2509.779198\n",
+       "NV     531.720650\n",
+       "ID     372.890482\n",
+       "NM     170.234318\n",
+       "WY     169.523555\n",
+       "         ...     \n",
+       "ME       1.867349\n",
+       "NH       1.575044\n",
+       "RI       1.171687\n",
+       "NY       1.159540\n",
+       "DC       0.492424\n",
+       "Name: FIRE_SIZE, Length: 52, dtype: float64"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.set_option('display.max_rows', 20)\n",
+    "\n",
+    "query5 = pd.read_sql_query(\n",
+    "    \"\"\"SELECT \n",
+    "    STATE,\n",
+    "    FIRE_SIZE\n",
+    "    FROM Fires\"\"\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "avg = query5.groupby('STATE').FIRE_SIZE.mean()\n",
+    "\n",
+    "avg.sort_values(ascending=False)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc71f35b",
+   "metadata": {
+    "papermill": {
+     "duration": 0.003559,
+     "end_time": "2026-05-29T19:01:49.480869+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:01:49.477310+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Fires occur by year and month"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "9f2e4d09",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-29T19:01:49.490672Z",
+     "iopub.status.busy": "2026-05-29T19:01:49.489856Z",
+     "iopub.status.idle": "2026-05-29T19:02:01.343743Z",
+     "shell.execute_reply": "2026-05-29T19:02:01.342801Z"
+    },
+    "papermill": {
+     "duration": 11.861604,
+     "end_time": "2026-05-29T19:02:01.346150+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:01:49.484546+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "DISCOVERY_YEAR  DISCOVERY_MONTH_NAME\n",
+       "1992            January                  3603\n",
+       "                February                 7114\n",
+       "                March                    8706\n",
+       "                April                    7810\n",
+       "                May                      8574\n",
+       "                June                     7307\n",
+       "                July                     7618\n",
+       "                August                   7478\n",
+       "                September                3717\n",
+       "                October                  3579\n",
+       "                November                 1398\n",
+       "                December                 1071\n",
+       "1993            January                  1553\n",
+       "                February                 4454\n",
+       "                March                    5355\n",
+       "                April                    6926\n",
+       "                May                      5980\n",
+       "                June                     6917\n",
+       "                July                     8763\n",
+       "                August                   7620\n",
+       "                September                4984\n",
+       "                October                  4016\n",
+       "                November                 3321\n",
+       "                December                 2097\n",
+       "1994            January                  3271\n",
+       "                February                 5795\n",
+       "                March                   11370\n",
+       "                April                    9561\n",
+       "                May                      6908\n",
+       "                June                     6277\n",
+       "                July                    11886\n",
+       "                August                   8743\n",
+       "                September                5130\n",
+       "                October                  2632\n",
+       "                November                 2964\n",
+       "                December                 1421\n",
+       "1995            January                  1473\n",
+       "                February                 6010\n",
+       "                March                   10300\n",
+       "                April                   10089\n",
+       "                May                      5662\n",
+       "                June                     5137\n",
+       "                July                     8320\n",
+       "                August                   7058\n",
+       "                September                7103\n",
+       "                October                  4098\n",
+       "                November                 3043\n",
+       "                December                 3179\n",
+       "1996            January                  3239\n",
+       "                February                10631\n",
+       "                March                    9605\n",
+       "                April                   10035\n",
+       "                May                      6592\n",
+       "                June                     6138\n",
+       "                July                     9698\n",
+       "                August                   9037\n",
+       "                September                3839\n",
+       "                October                  3219\n",
+       "                November                 1926\n",
+       "                December                 1615\n",
+       "1997            January                  2638\n",
+       "                February                 3621\n",
+       "                March                    8029\n",
+       "                April                   10018\n",
+       "                May                      6759\n",
+       "                June                     4321\n",
+       "                July                     7583\n",
+       "                August                   6019\n",
+       "                September                5879\n",
+       "                October                  3699\n",
+       "                November                 1537\n",
+       "                December                 1347\n",
+       "1998            January                  1291\n",
+       "                February                 2804\n",
+       "                March                    6753\n",
+       "                April                    7619\n",
+       "                May                      4733\n",
+       "                June                     7347\n",
+       "                July                    10194\n",
+       "                August                   8862\n",
+       "                September                6371\n",
+       "                October                  5329\n",
+       "                November                 4176\n",
+       "                December                 2891\n",
+       "1999            January                  3388\n",
+       "                February                 6215\n",
+       "                March                   10903\n",
+       "                April                   10520\n",
+       "                May                      6192\n",
+       "                June                     5990\n",
+       "                July                     7180\n",
+       "                August                  12430\n",
+       "                September                9195\n",
+       "                October                  5795\n",
+       "                November                 7411\n",
+       "                December                 4144\n",
+       "2000            January                  5113\n",
+       "                February                10470\n",
+       "                March                   11523\n",
+       "                April                    8109\n",
+       "                May                      8026\n",
+       "                June                     8179\n",
+       "                July                    11927\n",
+       "                August                  13454\n",
+       "                September                6524\n",
+       "                October                  7441\n",
+       "                November                 3185\n",
+       "                December                 2465\n",
+       "2001            January                  5426\n",
+       "                February                 6598\n",
+       "                March                    6626\n",
+       "                April                   10008\n",
+       "                May                      8985\n",
+       "                June                     6187\n",
+       "                July                     9856\n",
+       "                August                   8121\n",
+       "                September                4901\n",
+       "                October                  6643\n",
+       "                November                10332\n",
+       "                December                 2904\n",
+       "2002            January                  3625\n",
+       "                February                10104\n",
+       "                March                    9046\n",
+       "                April                    8728\n",
+       "                May                      7438\n",
+       "                June                     6823\n",
+       "                July                    10673\n",
+       "                August                   8518\n",
+       "                September                4837\n",
+       "                October                  1964\n",
+       "                November                 2298\n",
+       "                December                 1602\n",
+       "2003            January                  4191\n",
+       "                February                 2910\n",
+       "                March                    6732\n",
+       "                April                    9879\n",
+       "                May                      5171\n",
+       "                June                     5294\n",
+       "                July                    10435\n",
+       "                August                   8983\n",
+       "                September                4465\n",
+       "                October                  4602\n",
+       "                November                 3176\n",
+       "                December                 2423\n",
+       "2004            January                  3687\n",
+       "                February                 4299\n",
+       "                March                   12558\n",
+       "                April                   11387\n",
+       "                May                      5483\n",
+       "                June                     7059\n",
+       "                July                     8358\n",
+       "                August                   6864\n",
+       "                September                3478\n",
+       "                October                  2085\n",
+       "                November                 2013\n",
+       "                December                 2008\n",
+       "2005            January                  3916\n",
+       "                February                 5032\n",
+       "                March                   10303\n",
+       "                April                   12600\n",
+       "                May                      6232\n",
+       "                June                     6224\n",
+       "                July                     9558\n",
+       "                August                   8311\n",
+       "                September                7560\n",
+       "                October                  5904\n",
+       "                November                 7663\n",
+       "                December                 5301\n",
+       "2006            January                  9805\n",
+       "                February                 8277\n",
+       "                March                   18923\n",
+       "                April                   15901\n",
+       "                May                      8343\n",
+       "                June                    10884\n",
+       "                July                    15267\n",
+       "                August                  10993\n",
+       "                September                4870\n",
+       "                October                  4208\n",
+       "                November                 3119\n",
+       "                December                 3414\n",
+       "2007            January                  3222\n",
+       "                February                 8387\n",
+       "                March                   14098\n",
+       "                April                   10578\n",
+       "                May                     10291\n",
+       "                June                     8331\n",
+       "                July                    12084\n",
+       "                August                   9746\n",
+       "                September                6455\n",
+       "                October                  4734\n",
+       "                November                 4234\n",
+       "                December                 3413\n",
+       "2008            January                  5580\n",
+       "                February                 6985\n",
+       "                March                    9876\n",
+       "                April                   10952\n",
+       "                May                      7146\n",
+       "                June                    10085\n",
+       "                July                    10107\n",
+       "                August                   8430\n",
+       "                September                4200\n",
+       "                October                  4543\n",
+       "                November                 4693\n",
+       "                December                 2781\n",
+       "2009            January                  6129\n",
+       "                February                 9500\n",
+       "                March                   12344\n",
+       "                April                   11056\n",
+       "                May                      5920\n",
+       "                June                     5814\n",
+       "                July                    10460\n",
+       "                August                   6722\n",
+       "                September                4608\n",
+       "                October                  1851\n",
+       "                November                 2930\n",
+       "                December                  992\n",
+       "2010            January                  2312\n",
+       "                February                 2924\n",
+       "                March                    9423\n",
+       "                April                   11527\n",
+       "                May                      5180\n",
+       "                June                     5654\n",
+       "                July                     9144\n",
+       "                August                   8164\n",
+       "                September                7637\n",
+       "                October                  8716\n",
+       "                November                 4758\n",
+       "                December                 4449\n",
+       "2011            January                  5227\n",
+       "                February                10324\n",
+       "                March                    9481\n",
+       "                April                    8658\n",
+       "                May                      6846\n",
+       "                June                     9453\n",
+       "                July                    10633\n",
+       "                August                  11470\n",
+       "                September                7984\n",
+       "                October                  4563\n",
+       "                November                 3627\n",
+       "                December                 2286\n",
+       "2012            January                  4323\n",
+       "                February                 3854\n",
+       "                March                    8131\n",
+       "                April                    7839\n",
+       "                May                      5763\n",
+       "                June                     7285\n",
+       "                July                    11921\n",
+       "                August                   8218\n",
+       "                September                5015\n",
+       "                October                  3704\n",
+       "                November                 4698\n",
+       "                December                 2018\n",
+       "2013            January                  3150\n",
+       "                February                 3255\n",
+       "                March                    8675\n",
+       "                April                    7523\n",
+       "                May                      7291\n",
+       "                June                     5722\n",
+       "                July                     8194\n",
+       "                August                   8292\n",
+       "                September                4615\n",
+       "                October                  2598\n",
+       "                November                 3818\n",
+       "                December                 1647\n",
+       "2014            January                  6011\n",
+       "                February                 4365\n",
+       "                March                    9177\n",
+       "                April                    9850\n",
+       "                May                      6339\n",
+       "                June                     4603\n",
+       "                July                     8710\n",
+       "                August                   6638\n",
+       "                September                3175\n",
+       "                October                  3077\n",
+       "                November                 4021\n",
+       "                December                 1787\n",
+       "2015            January                  4265\n",
+       "                February                 5214\n",
+       "                March                    8046\n",
+       "                April                    9066\n",
+       "                May                      8044\n",
+       "                June                     6409\n",
+       "                July                     8665\n",
+       "                August                   8407\n",
+       "                September                5523\n",
+       "                October                  5992\n",
+       "                November                 3296\n",
+       "                December                 1564\n",
+       "Name: DISCOVERY_MONTH_NAME, dtype: int64"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.set_option('display.max_rows', None)\n",
+    "\n",
+    "query6 = pd.read_sql_query( \n",
+    "    \"\"\" SELECT \n",
+    "    DISCOVERY_DATE \n",
+    "    FROM Fires\"\"\", \n",
+    "    conn ) \n",
+    "\n",
+    "query6['DISCOVERY_DATE'] = pd.to_datetime(query6['DISCOVERY_DATE'], origin='julian', unit='D') \n",
+    "\n",
+    "query6['DISCOVERY_MONTH'] = query6['DISCOVERY_DATE'].dt.month #for sorting\n",
+    "\n",
+    "query6['DISCOVERY_MONTH_NAME'] = query6['DISCOVERY_DATE'].dt.month_name() #for viewing only\n",
+    "\n",
+    "query6['DISCOVERY_YEAR'] = query6['DISCOVERY_DATE'].dt.year \n",
+    "\n",
+    "query6.groupby(['DISCOVERY_YEAR', 'DISCOVERY_MONTH','DISCOVERY_MONTH_NAME']).DISCOVERY_MONTH_NAME.size().droplevel(1, axis=0) "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b907fabd",
+   "metadata": {
+    "papermill": {
+     "duration": 0.004764,
+     "end_time": "2026-05-29T19:02:01.355895+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:02:01.351131+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "aaaa"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "f59c7146",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-05-29T19:02:01.365765Z",
+     "iopub.status.busy": "2026-05-29T19:02:01.365431Z",
+     "iopub.status.idle": "2026-05-29T19:02:01.370511Z",
+     "shell.execute_reply": "2026-05-29T19:02:01.369680Z"
+    },
+    "papermill": {
+     "duration": 0.012439,
+     "end_time": "2026-05-29T19:02:01.372477+00:00",
+     "exception": false,
+     "start_time": "2026-05-29T19:02:01.360038+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "pd.set_option('display.max_rows', 20)"
    ]
   }
  ],
@@ -691,14 +1163,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 54.181002,
-   "end_time": "2026-05-27T20:29:55.859688+00:00",
+   "duration": 78.79921,
+   "end_time": "2026-05-29T19:02:02.400530+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-05-27T20:29:01.678686+00:00",
+   "start_time": "2026-05-29T19:00:43.601320+00:00",
    "version": "2.7.0"
   }
  },
