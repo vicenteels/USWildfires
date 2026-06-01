@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "510238ad",
+   "id": "952aa1e7",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:28:47.782048Z",
-     "iopub.status.busy": "2026-05-29T20:28:47.781301Z",
-     "iopub.status.idle": "2026-05-29T20:28:49.665942Z",
-     "shell.execute_reply": "2026-05-29T20:28:49.665032Z"
+     "iopub.execute_input": "2026-06-01T12:56:30.811029Z",
+     "iopub.status.busy": "2026-06-01T12:56:30.810632Z",
+     "iopub.status.idle": "2026-06-01T12:56:32.982036Z",
+     "shell.execute_reply": "2026-06-01T12:56:32.980649Z"
     },
     "papermill": {
-     "duration": 1.892367,
-     "end_time": "2026-05-29T20:28:49.668039+00:00",
+     "duration": 2.180965,
+     "end_time": "2026-06-01T12:56:32.984768+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:47.775672+00:00",
+     "start_time": "2026-06-01T12:56:30.803803+00:00",
      "status": "completed"
     },
     "tags": []
@@ -59,13 +59,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c9a5412a",
+   "id": "78a2d6f1",
    "metadata": {
     "papermill": {
-     "duration": 0.003321,
-     "end_time": "2026-05-29T20:28:49.675047+00:00",
+     "duration": 0.003799,
+     "end_time": "2026-06-01T12:56:32.992886+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.671726+00:00",
+     "start_time": "2026-06-01T12:56:32.989087+00:00",
      "status": "completed"
     },
     "tags": []
@@ -77,19 +77,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "190f948b",
+   "id": "cb306389",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:28:49.683709Z",
-     "iopub.status.busy": "2026-05-29T20:28:49.682819Z",
-     "iopub.status.idle": "2026-05-29T20:28:49.694078Z",
-     "shell.execute_reply": "2026-05-29T20:28:49.693165Z"
+     "iopub.execute_input": "2026-06-01T12:56:33.003033Z",
+     "iopub.status.busy": "2026-06-01T12:56:33.002121Z",
+     "iopub.status.idle": "2026-06-01T12:56:33.016578Z",
+     "shell.execute_reply": "2026-06-01T12:56:33.015220Z"
     },
     "papermill": {
-     "duration": 0.017754,
-     "end_time": "2026-05-29T20:28:49.695989+00:00",
+     "duration": 0.022586,
+     "end_time": "2026-06-01T12:56:33.019252+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.678235+00:00",
+     "start_time": "2026-06-01T12:56:32.996666+00:00",
      "status": "completed"
     },
     "tags": []
@@ -106,13 +106,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8fb6acb9",
+   "id": "9b384b57",
    "metadata": {
     "papermill": {
-     "duration": 0.003149,
-     "end_time": "2026-05-29T20:28:49.702685+00:00",
+     "duration": 0.003977,
+     "end_time": "2026-06-01T12:56:33.027407+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.699536+00:00",
+     "start_time": "2026-06-01T12:56:33.023430+00:00",
      "status": "completed"
     },
     "tags": []
@@ -124,19 +124,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "b872dc28",
+   "id": "6cbd347f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:28:49.711109Z",
-     "iopub.status.busy": "2026-05-29T20:28:49.710342Z",
-     "iopub.status.idle": "2026-05-29T20:28:49.879220Z",
-     "shell.execute_reply": "2026-05-29T20:28:49.878139Z"
+     "iopub.execute_input": "2026-06-01T12:56:33.038182Z",
+     "iopub.status.busy": "2026-06-01T12:56:33.037083Z",
+     "iopub.status.idle": "2026-06-01T12:56:33.261076Z",
+     "shell.execute_reply": "2026-06-01T12:56:33.259302Z"
     },
     "papermill": {
-     "duration": 0.175331,
-     "end_time": "2026-05-29T20:28:49.881221+00:00",
+     "duration": 0.232362,
+     "end_time": "2026-06-01T12:56:33.263773+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.705890+00:00",
+     "start_time": "2026-06-01T12:56:33.031411+00:00",
      "status": "completed"
     },
     "tags": []
@@ -207,13 +207,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "34384ccc",
+   "id": "6f6587de",
    "metadata": {
     "papermill": {
-     "duration": 0.003159,
-     "end_time": "2026-05-29T20:28:49.887882+00:00",
+     "duration": 0.004039,
+     "end_time": "2026-06-01T12:56:33.272543+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.884723+00:00",
+     "start_time": "2026-06-01T12:56:33.268504+00:00",
      "status": "completed"
     },
     "tags": []
@@ -225,19 +225,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "ce5d0961",
+   "id": "78c28304",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:28:49.896181Z",
-     "iopub.status.busy": "2026-05-29T20:28:49.895493Z",
-     "iopub.status.idle": "2026-05-29T20:29:01.080510Z",
-     "shell.execute_reply": "2026-05-29T20:29:01.079537Z"
+     "iopub.execute_input": "2026-06-01T12:56:33.283164Z",
+     "iopub.status.busy": "2026-06-01T12:56:33.282227Z",
+     "iopub.status.idle": "2026-06-01T12:56:47.467520Z",
+     "shell.execute_reply": "2026-06-01T12:56:47.466456Z"
     },
     "papermill": {
-     "duration": 11.191557,
-     "end_time": "2026-05-29T20:29:01.082606+00:00",
+     "duration": 14.193316,
+     "end_time": "2026-06-01T12:56:47.469898+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:28:49.891049+00:00",
+     "start_time": "2026-06-01T12:56:33.276582+00:00",
      "status": "completed"
     },
     "tags": []
@@ -279,13 +279,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bfeba87f",
+   "id": "90cdd631",
    "metadata": {
     "papermill": {
-     "duration": 0.003397,
-     "end_time": "2026-05-29T20:29:01.089740+00:00",
+     "duration": 0.004154,
+     "end_time": "2026-06-01T12:56:47.478542+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:01.086343+00:00",
+     "start_time": "2026-06-01T12:56:47.474388+00:00",
      "status": "completed"
     },
     "tags": []
@@ -297,19 +297,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "477fd9bc",
+   "id": "6af13fea",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:01.098291Z",
-     "iopub.status.busy": "2026-05-29T20:29:01.097856Z",
-     "iopub.status.idle": "2026-05-29T20:29:09.684691Z",
-     "shell.execute_reply": "2026-05-29T20:29:09.683800Z"
+     "iopub.execute_input": "2026-06-01T12:56:47.489259Z",
+     "iopub.status.busy": "2026-06-01T12:56:47.488112Z",
+     "iopub.status.idle": "2026-06-01T12:56:59.665455Z",
+     "shell.execute_reply": "2026-06-01T12:56:59.663983Z"
     },
     "papermill": {
-     "duration": 8.593548,
-     "end_time": "2026-05-29T20:29:09.686606+00:00",
+     "duration": 12.185812,
+     "end_time": "2026-06-01T12:56:59.668272+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:01.093058+00:00",
+     "start_time": "2026-06-01T12:56:47.482460+00:00",
      "status": "completed"
     },
     "tags": []
@@ -350,13 +350,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2b2a4129",
+   "id": "aa25088d",
    "metadata": {
     "papermill": {
-     "duration": 0.003375,
-     "end_time": "2026-05-29T20:29:09.693584+00:00",
+     "duration": 0.004268,
+     "end_time": "2026-06-01T12:56:59.677121+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:09.690209+00:00",
+     "start_time": "2026-06-01T12:56:59.672853+00:00",
      "status": "completed"
     },
     "tags": []
@@ -368,19 +368,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "047a44dc",
+   "id": "e5366447",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:09.702384Z",
-     "iopub.status.busy": "2026-05-29T20:29:09.701915Z",
-     "iopub.status.idle": "2026-05-29T20:29:19.228618Z",
-     "shell.execute_reply": "2026-05-29T20:29:19.227692Z"
+     "iopub.execute_input": "2026-06-01T12:56:59.689174Z",
+     "iopub.status.busy": "2026-06-01T12:56:59.688599Z",
+     "iopub.status.idle": "2026-06-01T12:57:13.208408Z",
+     "shell.execute_reply": "2026-06-01T12:57:13.207108Z"
     },
     "papermill": {
-     "duration": 9.533387,
-     "end_time": "2026-05-29T20:29:19.230505+00:00",
+     "duration": 13.528239,
+     "end_time": "2026-06-01T12:57:13.210859+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:09.697118+00:00",
+     "start_time": "2026-06-01T12:56:59.682620+00:00",
      "status": "completed"
     },
     "tags": []
@@ -583,13 +583,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "14e87c84",
+   "id": "b65a927a",
    "metadata": {
     "papermill": {
-     "duration": 0.004604,
-     "end_time": "2026-05-29T20:29:19.239076+00:00",
+     "duration": 0.004075,
+     "end_time": "2026-06-01T12:57:13.219236+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:19.234472+00:00",
+     "start_time": "2026-06-01T12:57:13.215161+00:00",
      "status": "completed"
     },
     "tags": []
@@ -601,19 +601,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "5cc62b56",
+   "id": "0151de46",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:19.248325Z",
-     "iopub.status.busy": "2026-05-29T20:29:19.247855Z",
-     "iopub.status.idle": "2026-05-29T20:29:27.786990Z",
-     "shell.execute_reply": "2026-05-29T20:29:27.786153Z"
+     "iopub.execute_input": "2026-06-01T12:57:13.229594Z",
+     "iopub.status.busy": "2026-06-01T12:57:13.229182Z",
+     "iopub.status.idle": "2026-06-01T12:57:26.236269Z",
+     "shell.execute_reply": "2026-06-01T12:57:26.235386Z"
     },
     "papermill": {
-     "duration": 8.546161,
-     "end_time": "2026-05-29T20:29:27.788982+00:00",
+     "duration": 13.014776,
+     "end_time": "2026-06-01T12:57:26.238226+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:19.242821+00:00",
+     "start_time": "2026-06-01T12:57:13.223450+00:00",
      "status": "completed"
     },
     "tags": []
@@ -651,13 +651,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1ab5c8c6",
+   "id": "137d88de",
    "metadata": {
     "papermill": {
-     "duration": 0.003704,
-     "end_time": "2026-05-29T20:29:27.796553+00:00",
+     "duration": 0.003986,
+     "end_time": "2026-06-01T12:57:26.246520+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:27.792849+00:00",
+     "start_time": "2026-06-01T12:57:26.242534+00:00",
      "status": "completed"
     },
     "tags": []
@@ -669,19 +669,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "40537508",
+   "id": "34ecedb3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:27.805706Z",
-     "iopub.status.busy": "2026-05-29T20:29:27.805143Z",
-     "iopub.status.idle": "2026-05-29T20:29:36.602968Z",
-     "shell.execute_reply": "2026-05-29T20:29:36.602148Z"
+     "iopub.execute_input": "2026-06-01T12:57:26.256614Z",
+     "iopub.status.busy": "2026-06-01T12:57:26.256167Z",
+     "iopub.status.idle": "2026-06-01T12:57:39.744818Z",
+     "shell.execute_reply": "2026-06-01T12:57:39.743666Z"
     },
     "papermill": {
-     "duration": 8.804334,
-     "end_time": "2026-05-29T20:29:36.604625+00:00",
+     "duration": 13.496577,
+     "end_time": "2026-06-01T12:57:39.747061+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:27.800291+00:00",
+     "start_time": "2026-06-01T12:57:26.250484+00:00",
      "status": "completed"
     },
     "tags": []
@@ -728,13 +728,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "981e8f60",
+   "id": "01a836bc",
    "metadata": {
     "papermill": {
-     "duration": 0.003754,
-     "end_time": "2026-05-29T20:29:36.612258+00:00",
+     "duration": 0.004734,
+     "end_time": "2026-06-01T12:57:39.756776+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:36.608504+00:00",
+     "start_time": "2026-06-01T12:57:39.752042+00:00",
      "status": "completed"
     },
     "tags": []
@@ -746,19 +746,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "f445d816",
+   "id": "156d71a6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:36.621698Z",
-     "iopub.status.busy": "2026-05-29T20:29:36.621144Z",
-     "iopub.status.idle": "2026-05-29T20:29:46.163063Z",
-     "shell.execute_reply": "2026-05-29T20:29:46.162090Z"
+     "iopub.execute_input": "2026-06-01T12:57:39.768625Z",
+     "iopub.status.busy": "2026-06-01T12:57:39.767276Z",
+     "iopub.status.idle": "2026-06-01T12:57:57.935209Z",
+     "shell.execute_reply": "2026-06-01T12:57:57.934347Z"
     },
     "papermill": {
-     "duration": 9.54904,
-     "end_time": "2026-05-29T20:29:46.165038+00:00",
+     "duration": 18.176599,
+     "end_time": "2026-06-01T12:57:57.937660+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:36.615998+00:00",
+     "start_time": "2026-06-01T12:57:39.761061+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1086,13 +1086,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b0f7296d",
+   "id": "e642d239",
    "metadata": {
     "papermill": {
-     "duration": 0.004121,
-     "end_time": "2026-05-29T20:29:46.173773+00:00",
+     "duration": 0.005023,
+     "end_time": "2026-06-01T12:57:57.947977+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:46.169652+00:00",
+     "start_time": "2026-06-01T12:57:57.942954+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1104,19 +1104,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "ad5a050e",
+   "id": "eaea7ff9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:46.183618Z",
-     "iopub.status.busy": "2026-05-29T20:29:46.183208Z",
-     "iopub.status.idle": "2026-05-29T20:29:55.486518Z",
-     "shell.execute_reply": "2026-05-29T20:29:55.485647Z"
+     "iopub.execute_input": "2026-06-01T12:57:57.961327Z",
+     "iopub.status.busy": "2026-06-01T12:57:57.960339Z",
+     "iopub.status.idle": "2026-06-01T12:58:12.965342Z",
+     "shell.execute_reply": "2026-06-01T12:58:12.964158Z"
     },
     "papermill": {
-     "duration": 9.310572,
-     "end_time": "2026-05-29T20:29:55.488386+00:00",
+     "duration": 15.014608,
+     "end_time": "2026-06-01T12:58:12.967508+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:46.177814+00:00",
+     "start_time": "2026-06-01T12:57:57.952900+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1149,13 +1149,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3d8186f4",
+   "id": "96cbed27",
    "metadata": {
     "papermill": {
-     "duration": 0.004125,
-     "end_time": "2026-05-29T20:29:55.497246+00:00",
+     "duration": 0.004958,
+     "end_time": "2026-06-01T12:58:12.978084+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:55.493121+00:00",
+     "start_time": "2026-06-01T12:58:12.973126+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1167,19 +1167,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "5caf433a",
+   "id": "e741fc63",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-05-29T20:29:55.508041Z",
-     "iopub.status.busy": "2026-05-29T20:29:55.507725Z",
-     "iopub.status.idle": "2026-05-29T20:30:12.723588Z",
-     "shell.execute_reply": "2026-05-29T20:30:12.722702Z"
+     "iopub.execute_input": "2026-06-01T12:58:12.989758Z",
+     "iopub.status.busy": "2026-06-01T12:58:12.988785Z",
+     "iopub.status.idle": "2026-06-01T12:58:33.587618Z",
+     "shell.execute_reply": "2026-06-01T12:58:33.586236Z"
     },
     "papermill": {
-     "duration": 17.223787,
-     "end_time": "2026-05-29T20:30:12.725556+00:00",
+     "duration": 20.60726,
+     "end_time": "2026-06-01T12:58:33.589954+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:29:55.501769+00:00",
+     "start_time": "2026-06-01T12:58:12.982694+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1242,19 +1242,585 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1d9c33d2",
+   "id": "7b404970",
    "metadata": {
     "papermill": {
-     "duration": 0.004865,
-     "end_time": "2026-05-29T20:30:12.734938+00:00",
+     "duration": 0.004597,
+     "end_time": "2026-06-01T12:58:33.599505+00:00",
      "exception": false,
-     "start_time": "2026-05-29T20:30:12.730073+00:00",
+     "start_time": "2026-06-01T12:58:33.594908+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
     "# 9. Which states take the longest to bring fires under control?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "3f35d5cb",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-06-01T12:58:33.610535Z",
+     "iopub.status.busy": "2026-06-01T12:58:33.610154Z",
+     "iopub.status.idle": "2026-06-01T12:58:46.805528Z",
+     "shell.execute_reply": "2026-06-01T12:58:46.804662Z"
+    },
+    "papermill": {
+     "duration": 13.203396,
+     "end_time": "2026-06-01T12:58:46.807565+00:00",
+     "exception": false,
+     "start_time": "2026-06-01T12:58:33.604169+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "STATE\n",
+       "HI   11 days 13:52:46.265060241\n",
+       "AK   11 days 02:24:12.914798206\n",
+       "NJ    5 days 02:14:32.441769170\n",
+       "WA    5 days 01:41:02.519309085\n",
+       "ID    4 days 14:35:57.980562259\n",
+       "NY    2 days 19:48:26.409084975\n",
+       "VA    2 days 14:58:53.742331288\n",
+       "WY    2 days 11:44:47.667257778\n",
+       "MT    2 days 01:30:12.859926391\n",
+       "NM    1 days 23:48:42.232126938\n",
+       "UT    1 days 15:50:21.530128639\n",
+       "OR    1 days 13:32:41.508452535\n",
+       "CO    1 days 09:19:10.347749338\n",
+       "NV       1 days 04:08:39.680000\n",
+       "AZ    1 days 01:55:29.708386707\n",
+       "CA    1 days 01:16:20.023501762\n",
+       "PR    0 days 23:53:53.898305084\n",
+       "FL    0 days 21:06:33.542208236\n",
+       "TX    0 days 14:16:37.360807282\n",
+       "MI    0 days 13:05:05.605015673\n",
+       "KY    0 days 11:47:19.216284211\n",
+       "MD    0 days 10:54:32.727272727\n",
+       "WV    0 days 10:36:30.235575281\n",
+       "LA    0 days 10:09:03.727161997\n",
+       "OK    0 days 09:56:11.259958689\n",
+       "PA    0 days 09:28:27.742639040\n",
+       "IN    0 days 07:53:12.727272727\n",
+       "IL    0 days 07:14:51.331444759\n",
+       "OH    0 days 07:08:57.384412153\n",
+       "ND    0 days 07:01:08.096477040\n",
+       "ME    0 days 06:55:46.072348954\n",
+       "TN    0 days 06:34:53.062995863\n",
+       "MN    0 days 05:50:32.519652461\n",
+       "SC    0 days 05:26:50.509758228\n",
+       "DE    0 days 05:05:27.272727272\n",
+       "NH    0 days 04:50:13.953488372\n",
+       "SD    0 days 04:45:39.429579535\n",
+       "NE    0 days 04:24:49.275473140\n",
+       "MO    0 days 04:24:33.198847262\n",
+       "AR    0 days 04:16:22.108060230\n",
+       "WI    0 days 03:57:42.728249194\n",
+       "KS    0 days 03:49:40.645161290\n",
+       "AL    0 days 03:43:25.937278639\n",
+       "NC    0 days 03:03:00.324722680\n",
+       "RI    0 days 02:37:22.622950819\n",
+       "MS    0 days 02:15:33.682348779\n",
+       "VT    0 days 01:56:18.461538461\n",
+       "GA    0 days 01:24:14.800483675\n",
+       "MA    0 days 00:34:29.002217294\n",
+       "DC    0 days 00:22:09.230769230\n",
+       "CT    0 days 00:15:13.913751017\n",
+       "IA    0 days 00:10:08.264462809\n",
+       "Name: TIME_TO_CONTROL, dtype: timedelta64[ns]"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.set_option('display.max_rows', None)\n",
+    "\n",
+    "query9 = pd.read_sql_query(\n",
+    "    \"\"\"\n",
+    "    SELECT \n",
+    "    DISCOVERY_DATE,\n",
+    "    CONT_DATE,\n",
+    "    STATE\n",
+    "    FROM Fires\"\"\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "query9['DISCOVERY_DATE'] = pd.to_datetime(query9['DISCOVERY_DATE'], origin='julian', unit='D')\n",
+    "query9['CONT_DATE'] = pd.to_datetime(query9['CONT_DATE'], origin='julian', unit='D')\n",
+    "query9['TIME_TO_CONTROL'] = query9['CONT_DATE'] - query9['DISCOVERY_DATE']\n",
+    "\n",
+    "query9_clean = query9.dropna(axis=0, how='any', subset=None, inplace=False)\n",
+    "\n",
+    "query9_clean.groupby('STATE').TIME_TO_CONTROL.mean().sort_values(ascending=False)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7296d115",
+   "metadata": {
+    "papermill": {
+     "duration": 0.004943,
+     "end_time": "2026-06-01T12:58:46.818335+00:00",
+     "exception": false,
+     "start_time": "2026-06-01T12:58:46.813392+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# 10. What is the most common cause in each state?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "a40c33cc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-06-01T12:58:46.830022Z",
+     "iopub.status.busy": "2026-06-01T12:58:46.829678Z",
+     "iopub.status.idle": "2026-06-01T12:58:59.368547Z",
+     "shell.execute_reply": "2026-06-01T12:58:59.367510Z"
+    },
+    "papermill": {
+     "duration": 12.547236,
+     "end_time": "2026-06-01T12:58:59.370632+00:00",
+     "exception": false,
+     "start_time": "2026-06-01T12:58:46.823396+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>STATE</th>\n",
+       "      <th>STAT_CAUSE_DESCR</th>\n",
+       "      <th>count</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>GA</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>88199</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>TX</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>56172</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>CA</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>51943</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>NY</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>49620</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>NC</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>39020</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>5</th>\n",
+       "      <td>MS</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>33134</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>6</th>\n",
+       "      <td>OR</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>31556</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>7</th>\n",
+       "      <td>AZ</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>28776</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>8</th>\n",
+       "      <td>SC</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>25081</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>9</th>\n",
+       "      <td>AL</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>21826</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>10</th>\n",
+       "      <td>PR</td>\n",
+       "      <td>Missing/Undefined</td>\n",
+       "      <td>21821</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>11</th>\n",
+       "      <td>FL</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>21806</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>12</th>\n",
+       "      <td>ID</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>21291</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>13</th>\n",
+       "      <td>CO</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>19945</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>14</th>\n",
+       "      <td>NM</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>18006</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>15</th>\n",
+       "      <td>MT</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>17635</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>16</th>\n",
+       "      <td>UT</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>16747</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>17</th>\n",
+       "      <td>OK</td>\n",
+       "      <td>Missing/Undefined</td>\n",
+       "      <td>14594</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>18</th>\n",
+       "      <td>MN</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>14566</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>19</th>\n",
+       "      <td>TN</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>12341</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>20</th>\n",
+       "      <td>NV</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>11174</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>21</th>\n",
+       "      <td>AR</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>10377</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>22</th>\n",
+       "      <td>WI</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>9790</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>23</th>\n",
+       "      <td>KY</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>9756</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>24</th>\n",
+       "      <td>HI</td>\n",
+       "      <td>Missing/Undefined</td>\n",
+       "      <td>9715</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>25</th>\n",
+       "      <td>WA</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>9694</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>26</th>\n",
+       "      <td>LA</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>9237</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>27</th>\n",
+       "      <td>NJ</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>8315</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>28</th>\n",
+       "      <td>MO</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>7635</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>29</th>\n",
+       "      <td>WV</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>7482</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>30</th>\n",
+       "      <td>ND</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>7318</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>31</th>\n",
+       "      <td>VA</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>7215</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>WY</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>6461</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>33</th>\n",
+       "      <td>ME</td>\n",
+       "      <td>Missing/Undefined</td>\n",
+       "      <td>5988</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>34</th>\n",
+       "      <td>SD</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>5651</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>35</th>\n",
+       "      <td>AK</td>\n",
+       "      <td>Lightning</td>\n",
+       "      <td>4108</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>36</th>\n",
+       "      <td>MI</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>3199</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>37</th>\n",
+       "      <td>PA</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>3194</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>38</th>\n",
+       "      <td>KS</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>3002</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>39</th>\n",
+       "      <td>CT</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>2714</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>40</th>\n",
+       "      <td>NE</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>2553</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>41</th>\n",
+       "      <td>IA</td>\n",
+       "      <td>Missing/Undefined</td>\n",
+       "      <td>2016</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>42</th>\n",
+       "      <td>OH</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>1558</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>43</th>\n",
+       "      <td>IL</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>1063</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>44</th>\n",
+       "      <td>MD</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>837</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>45</th>\n",
+       "      <td>MA</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>807</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>46</th>\n",
+       "      <td>NH</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>802</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>47</th>\n",
+       "      <td>IN</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>506</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>48</th>\n",
+       "      <td>RI</td>\n",
+       "      <td>Arson</td>\n",
+       "      <td>234</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>49</th>\n",
+       "      <td>VT</td>\n",
+       "      <td>Debris Burning</td>\n",
+       "      <td>182</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>50</th>\n",
+       "      <td>DE</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>69</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>51</th>\n",
+       "      <td>DC</td>\n",
+       "      <td>Miscellaneous</td>\n",
+       "      <td>31</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   STATE   STAT_CAUSE_DESCR  count\n",
+       "0     GA     Debris Burning  88199\n",
+       "1     TX     Debris Burning  56172\n",
+       "2     CA      Miscellaneous  51943\n",
+       "3     NY      Miscellaneous  49620\n",
+       "4     NC     Debris Burning  39020\n",
+       "5     MS              Arson  33134\n",
+       "6     OR          Lightning  31556\n",
+       "7     AZ          Lightning  28776\n",
+       "8     SC     Debris Burning  25081\n",
+       "9     AL              Arson  21826\n",
+       "10    PR  Missing/Undefined  21821\n",
+       "11    FL          Lightning  21806\n",
+       "12    ID          Lightning  21291\n",
+       "13    CO          Lightning  19945\n",
+       "14    NM          Lightning  18006\n",
+       "15    MT          Lightning  17635\n",
+       "16    UT          Lightning  16747\n",
+       "17    OK  Missing/Undefined  14594\n",
+       "18    MN     Debris Burning  14566\n",
+       "19    TN     Debris Burning  12341\n",
+       "20    NV          Lightning  11174\n",
+       "21    AR              Arson  10377\n",
+       "22    WI     Debris Burning   9790\n",
+       "23    KY     Debris Burning   9756\n",
+       "24    HI  Missing/Undefined   9715\n",
+       "25    WA          Lightning   9694\n",
+       "26    LA      Miscellaneous   9237\n",
+       "27    NJ              Arson   8315\n",
+       "28    MO     Debris Burning   7635\n",
+       "29    WV     Debris Burning   7482\n",
+       "30    ND              Arson   7318\n",
+       "31    VA     Debris Burning   7215\n",
+       "32    WY          Lightning   6461\n",
+       "33    ME  Missing/Undefined   5988\n",
+       "34    SD      Miscellaneous   5651\n",
+       "35    AK          Lightning   4108\n",
+       "36    MI     Debris Burning   3199\n",
+       "37    PA     Debris Burning   3194\n",
+       "38    KS      Miscellaneous   3002\n",
+       "39    CT      Miscellaneous   2714\n",
+       "40    NE     Debris Burning   2553\n",
+       "41    IA  Missing/Undefined   2016\n",
+       "42    OH     Debris Burning   1558\n",
+       "43    IL      Miscellaneous   1063\n",
+       "44    MD     Debris Burning    837\n",
+       "45    MA      Miscellaneous    807\n",
+       "46    NH      Miscellaneous    802\n",
+       "47    IN     Debris Burning    506\n",
+       "48    RI              Arson    234\n",
+       "49    VT     Debris Burning    182\n",
+       "50    DE      Miscellaneous     69\n",
+       "51    DC      Miscellaneous     31"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.set_option('display.max_rows', None)\n",
+    "\n",
+    "query10 = pd.read_sql_query(\n",
+    "    \"\"\"\n",
+    "    SELECT\n",
+    "    STATE,\n",
+    "    STAT_CAUSE_DESCR\n",
+    "    FROM Fires\"\"\",\n",
+    "    conn\n",
+    ")\n",
+    "\n",
+    "query10_sorted = query10.groupby('STATE').STAT_CAUSE_DESCR.value_counts().sort_values(ascending=False).reset_index()\n",
+    "\n",
+    "query10_sorted.drop_duplicates(subset='STATE', keep='first', inplace=False, ignore_index=True)"
    ]
   }
  ],
@@ -1294,14 +1860,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 89.372788,
-   "end_time": "2026-05-29T20:30:14.161839+00:00",
+   "duration": 153.667772,
+   "end_time": "2026-06-01T12:59:01.103565+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-05-29T20:28:44.789051+00:00",
+   "start_time": "2026-06-01T12:56:27.435793+00:00",
    "version": "2.7.0"
   }
  },
